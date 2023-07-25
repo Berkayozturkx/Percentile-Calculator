@@ -1,4 +1,4 @@
-# Yüzdelik Dilim Hesaplayıcı / Percentile Calculatır
+# Yüzdelik Dilim Hesaplayıcı / Percentile Calculator
 
 ---
 
